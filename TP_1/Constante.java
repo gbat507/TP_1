@@ -34,8 +34,8 @@ public class Constante {
                                                 "\n\t                 13. Quitter			 \n";
 
     public static final String MENU_GAMME     = "\n• Menu Gamme :" +
-                                                "\n\t1. Majeur	  " +
-                                                "\n\t2. Majeur	  " +
+                                                "\n\t1. Majeure	  " +
+                                                "\n\t2. Mineure	  " +
                                                 "\n\t3. Quitter	  \n";
 
     //Les messages
